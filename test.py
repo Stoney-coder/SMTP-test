@@ -2,8 +2,8 @@ import smtplib
 from email.message import EmailMessage
 
 # Configura tus credenciales aquí
-SENDER_EMAIL = "tu_correo_corporativo@boehringer-ingelheim.com"
-SENDER_PASSWORD = "tu_contraseña_segura"
+SENDER_EMAIL = "andres.osorio_garzon@boehringer-ingelheim.com"
+SENDER_PASSWORD = "Libna197169*"
 
 # Dirección del destinatario (puedes dejar esta fija para la prueba)
 TO_EMAIL = "andres.osorio_garzon@boehringer-ingelheim.com"
